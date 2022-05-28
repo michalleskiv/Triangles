@@ -1,0 +1,17 @@
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.deps.json
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.runtimeconfig.json
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.dll
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.pdb
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.AssemblyReference.cache
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfoInputs.cache
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfo.cs
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.dll
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ref/ConsoleApp3.dll
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.pdb
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.genruntimeconfig.cache
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.CopyComplete
+/home/mike/Work/CorkSolutions/XManager/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/refint/ConsoleApp3.dll
